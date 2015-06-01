@@ -63,6 +63,7 @@ public class Acceso {
                 
             case 3:
                 System.err.println("hasta luego :D ");
+                System.out.println("I have sleep :P");
                 System.exit(0);
                 break;
         }
